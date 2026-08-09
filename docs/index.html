@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Riband — Photographer, Erbil</title>
+<meta name="robots" content="noindex">
+<link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,400&family=Inter:wght@400;500&family=Noto+Naskh+Arabic:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="assets/css/main.css">
+<script>
+(function () {
+  var l = (navigator.languages || [navigator.language || "en"]).join(" ").toLowerCase();
+  var t = "en";
+  if (/(^|[^a-z])(ckb|ku)([^a-z]|$)/.test(l)) t = "ku";
+  else if (/(^|[^a-z])ar([^a-z]|$)/.test(l)) t = "ar";
+  location.replace(t + "/");
+})();
+</script>
+</head>
+<body>
+<div class="lang-gate">
+  <span class="wordmark">Riband</span>
+  <nav>
+    <a class="biglink" href="en/">English</a>
+    <a class="biglink rtl" href="ku/" lang="ckb" dir="rtl">کوردی</a>
+    <a class="biglink rtl" href="ar/" lang="ar" dir="rtl">العربية</a>
+  </nav>
+</div>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="gwork09" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#2e2c29"/>
+      <stop offset="1" stop-color="#6b6862"/>
+    </linearGradient>
+    <radialGradient id="rwork09" cx="0.32" cy="0.28" r="0.9">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.1"/>
+      <stop offset="0.6" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="nwork09">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.055"/></feComponentTransfer>
+    </filter>
+  </defs>
+  <rect width="1200" height="900" fill="url(#gwork09)"/>
+  <rect width="1200" height="900" fill="url(#rwork09)"/>
+  <rect width="1200" height="900" filter="url(#nwork09)"/>
+  <rect x="54" y="54" width="1092" height="792" fill="none" stroke="#d9d6d0" stroke-opacity="0.35" stroke-width="1.5"/>
+  <text x="90" y="810" font-family="Georgia, serif" font-size="25" letter-spacing="7.2" fill="#d9d6d0" fill-opacity="0.85">WORK 09 · WEDDING</text>
+  <text x="90" y="848" font-family="Georgia, serif" font-size="17" letter-spacing="3.6" fill="#d9d6d0" fill-opacity="0.5">PLACEHOLDER — REPLACE WITH PHOTOGRAPH 1200 × 900</text>
+</svg>

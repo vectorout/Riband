@@ -1,0 +1,346 @@
+{
+  "lang": "en",
+  "html_lang": "en",
+  "dir": "ltr",
+  "slug": "en",
+  "lang_label": "EN",
+  "wa_prefill": "Hello Riband — I'd like to ask about a photo shoot.",
+
+  "chrome": {
+    "skip": "Skip to content",
+    "menu_open": "Menu",
+    "menu_close": "Close",
+    "book_btn": "Book",
+    "nav": {
+      "weddings": "Weddings",
+      "portraits": "Portraits",
+      "schools": "Schools",
+      "work": "Work",
+      "about": "About",
+      "contact": "Contact"
+    },
+    "foot_tagline": "Wedding, portrait, and school photography in Erbil — in colour, and in the black-and-white signature.",
+    "foot_explore": "Explore",
+    "foot_services": "Services",
+    "foot_elsewhere": "Elsewhere",
+    "foot_contact": "Contact",
+    "foot_ig_main": "Instagram — @ribandm",
+    "foot_ig_bnw": "Instagram — @bnwlives",
+    "foot_youtube": "YouTube",
+    "foot_whatsapp": "WhatsApp",
+    "foot_email": "Email",
+    "copyright": "Riband Photography — Erbil, Kurdistan Region",
+    "credit": "Website by RMR Agency"
+  },
+
+  "home": {
+    "seo_title": "Riband — Wedding & Portrait Photographer in Erbil",
+    "seo_desc": "Riband Saadallah photographs weddings, portraits and schools in Erbil. Twelve years of Finnish street photography behind a timeless black-and-white signature.",
+    "hero_eyebrow": "Riband Saadallah · Photographer · Erbil",
+    "hero_h1": "Photographs that outlive the day.",
+    "hero_lead": "Twelve years photographing the streets of Helsinki taught me patience, honesty, and shadow. I bring that eye to weddings and portraits in Erbil — quiet, deliberate, made to last.",
+    "hero_cta_book": "Book a consultation",
+    "hero_cta_work": "See the work",
+    "hero_img_alt": "Black-and-white photograph by Riband Saadallah",
+    "stats": [
+      { "n": "12", "l": "Years behind the camera" },
+      { "n": "2", "l": "Cities called home — Helsinki & Erbil" },
+      { "n": "10,000+", "l": "Following the work" }
+    ],
+    "svc_eyebrow": "Services",
+    "svc_h2": "What I photograph",
+    "services": [
+      {
+        "num": "01",
+        "title": "Weddings",
+        "text": "One wedding at a time, photographed like a story — unposed, unhurried, edited to last. In colour, and in the black-and-white signature.",
+        "link": "Weddings in Erbil",
+        "img": "wedding-01",
+        "alt": "Wedding photography in Erbil — placeholder"
+      },
+      {
+        "num": "02",
+        "title": "Portraits",
+        "text": "Individuals, couples, and families — in the studio, on the street, or in the light you love. Portraits with weight.",
+        "link": "Portrait sessions",
+        "img": "portrait-01",
+        "alt": "Portrait photography in Erbil — placeholder"
+      },
+      {
+        "num": "03",
+        "title": "Schools",
+        "text": "A yearly photography programme for schools in Erbil — class groups, individual portraits, and simple ordering for parents.",
+        "link": "The school programme",
+        "img": "school-01",
+        "alt": "School photography programme in Erbil — placeholder"
+      }
+    ],
+    "band_quote": "Colour shows how it looked. Black and white shows how it felt.",
+    "band_cta": "About Riband",
+    "work_eyebrow": "Portfolio",
+    "work_h2": "Selected work",
+    "work_link": "View the portfolio",
+    "work_imgs": [
+      { "img": "work-01", "alt": "Selected work — wedding, Erbil" },
+      { "img": "work-03", "alt": "Selected work — portrait" },
+      { "img": "work-08", "alt": "Selected work — street photography, Helsinki" }
+    ],
+    "about_eyebrow": "The photographer",
+    "about_h2": "From Helsinki to Hewlêr.",
+    "about_text": "Finland taught me to wait for the light, respect the quiet, and keep only what is true. I came home to photograph Erbil the same way — honestly, beautifully, without noise.",
+    "about_link": "Read the story",
+    "about_img_alt": "Portrait of Riband Saadallah — placeholder",
+    "cta_eyebrow": "Now booking",
+    "cta_h2": "The 2026–27 wedding calendar is open.",
+    "cta_text": "Dates go to whoever confirms first — autumn weekends leave earliest. Tell me about your day, and I'll tell you honestly if I'm the right photographer for it.",
+    "cta_btn_wa": "WhatsApp Riband",
+    "cta_btn_cal": "Pick a call time"
+  },
+
+  "weddings": {
+    "seo_title": "Wedding Photography in Erbil — Riband",
+    "seo_desc": "Editorial wedding photography in Erbil and across Kurdistan by Riband Saadallah. Documentary coverage in colour and a signature black-and-white edit. Collections from $650.",
+    "eyebrow": "Weddings · Erbil & Kurdistan",
+    "h1": "Wedding photography in Erbil",
+    "lead": "Most wedding photography shouts — posed, loud, over-lit. Yours can whisper and still be unforgettable: the day as it truly happened, in rich colour and in the black-and-white signature I'm known for.",
+    "intro_img_alt": "Wedding photography in Erbil by Riband — placeholder",
+    "approach_eyebrow": "The approach",
+    "approach_h2": "Present everywhere. In the way, never.",
+    "steps": [
+      { "num": "1", "title": "We meet", "text": "A short call or coffee. We walk through the day, the venues, the people who matter most, and what you want to remember." },
+      { "num": "2", "title": "I disappear into the day", "text": "No staged interruptions, no shouting for lineups. I work quietly through the henna, the ceremony, the dancing — and the moments in between." },
+      { "num": "3", "title": "You receive the story", "text": "A curated private gallery in full colour and signature black and white — with albums and prints made to be passed down." }
+    ],
+    "gallery": [
+      { "img": "wedding-01", "alt": "Wedding in Erbil — placeholder" },
+      { "img": "wedding-02", "alt": "Wedding details — placeholder" },
+      { "img": "wedding-03", "alt": "Wedding celebration — placeholder" }
+    ],
+    "pkg_eyebrow": "Collections",
+    "pkg_h2": "Three ways to keep the day",
+    "pkg_note": "Starting prices — every wedding is scoped personally in a short call, depending on date, venues, and hours. One wedding per date, always.",
+    "from": "From",
+    "featured_tag": "Most chosen",
+    "packages": [
+      {
+        "name": "Essential",
+        "price_key": "wedding_essential",
+        "features": [
+          "6 hours of coverage",
+          "300+ edited photographs",
+          "Signature black-and-white selection",
+          "Private online gallery",
+          "Delivered within 3 weeks"
+        ],
+        "featured": false
+      },
+      {
+        "name": "Signature",
+        "price_key": "wedding_signature",
+        "features": [
+          "Full-day coverage, up to 12 hours",
+          "Engagement session included",
+          "600+ edited photographs",
+          "40 signature black-and-white edits",
+          "Private online gallery",
+          "Delivered within 3 weeks"
+        ],
+        "featured": true
+      },
+      {
+        "name": "Legacy",
+        "price_key": "wedding_legacy",
+        "features": [
+          "Two days — henna night & wedding",
+          "Second photographer",
+          "Everything in Signature",
+          "Fine-art linen album, 30 × 30 cm",
+          "Three framed prints"
+        ],
+        "featured": false
+      }
+    ],
+    "pkg_cta": "Ask about your date",
+    "faq_eyebrow": "Questions",
+    "faq_h2": "Asked before every wedding",
+    "faq": [
+      { "q": "How far in advance should we book?", "a": "Three to six months for most dates. Autumn weekends in Erbil go first — if your date is set, ask early. I photograph one wedding per date, never two." },
+      { "q": "Do you photograph in colour or only black and white?", "a": "Both, always. You receive the full story in colour, plus a curated black-and-white edit — the signature. You never have to choose." },
+      { "q": "Do you travel outside Erbil?", "a": "Yes — all of Kurdistan and Iraq, and internationally on request. Travel outside Erbil is quoted simply and agreed before booking." },
+      { "q": "When do we see the photographs?", "a": "A small preview within 48 hours — something to share while the day is still warm. The full gallery is delivered within three weeks." },
+      { "q": "Can our families access the gallery?", "a": "Yes. Your private gallery has a simple link and code you can share with family and guests, who can view and order prints themselves." }
+    ],
+    "cta_h2": "Tell me about your day.",
+    "cta_text": "A date, a venue, what you have in mind — that's enough to start.",
+    "cta_btn_wa": "WhatsApp Riband",
+    "cta_btn_cal": "Book a consultation call"
+  },
+
+  "portraits": {
+    "seo_title": "Portrait Photography in Erbil — Riband",
+    "seo_desc": "Portrait sessions in Erbil by Riband Saadallah — individuals, couples, and families, in studio or on location. Sessions from $90, in colour and black and white.",
+    "eyebrow": "Portraits · Erbil",
+    "h1": "Portraits with weight.",
+    "lead": "A portrait should say something true. In the studio or in the streets of Erbil, we make photographs you will still recognise yourself in, decades from now.",
+    "intro_img_alt": "Portrait by Riband — placeholder",
+    "from": "From",
+    "featured_tag": "Most chosen",
+    "pkg_eyebrow": "Sessions",
+    "pkg_h2": "Three sessions",
+    "pkg_note": "Starting prices. Hair, make-up, and printed portraits can be arranged — ask when booking.",
+    "packages": [
+      {
+        "name": "Solo",
+        "price_key": "portrait_solo",
+        "features": [
+          "45-minute session",
+          "One location — studio or city",
+          "15 edited photographs",
+          "5 signature black-and-white edits",
+          "Private online gallery"
+        ],
+        "featured": false
+      },
+      {
+        "name": "Couples",
+        "price_key": "portrait_couple",
+        "features": [
+          "90-minute session",
+          "Two locations",
+          "30 edited photographs",
+          "10 signature black-and-white edits",
+          "Private online gallery"
+        ],
+        "featured": true
+      },
+      {
+        "name": "Family",
+        "price_key": "portrait_family",
+        "features": [
+          "2-hour session",
+          "At home or on location",
+          "40 edited photographs",
+          "Group and individual portraits",
+          "Private online gallery"
+        ],
+        "featured": false
+      }
+    ],
+    "pkg_cta": "Book a session",
+    "gallery": [
+      { "img": "portrait-01", "alt": "Portrait session — placeholder" },
+      { "img": "portrait-02", "alt": "Portrait session on location — placeholder" }
+    ],
+    "note_h2": "Engagements, events, and everything between",
+    "note_text": "Engagement sessions, graduations, private events, and editorial commissions are quoted individually — usually within a day. If it matters to you, it can be photographed properly.",
+    "cta_h2": "Book your session.",
+    "cta_btn_wa": "WhatsApp Riband",
+    "cta_btn_cal": "Pick a time"
+  },
+
+  "schools": {
+    "seo_title": "School Photography in Erbil — Riband",
+    "seo_desc": "An organised annual photography programme for schools in Erbil: class groups and individual portraits, private galleries, and simple ordering for parents. Zero admin for staff.",
+    "eyebrow": "For schools · Erbil",
+    "h1": "School photography, done properly.",
+    "lead": "A calm, organised picture day — every class, every student — with portraits parents actually want to buy. One agreement, zero admin for your staff.",
+    "intro_img_alt": "School photography in Erbil — placeholder",
+    "how_eyebrow": "The programme",
+    "how_h2": "How picture day works",
+    "steps": [
+      { "num": "1", "title": "We schedule", "text": "One planning meeting. We map the day around your timetable — grade by grade, class by class — and send a simple notice for parents." },
+      { "num": "2", "title": "Picture day", "text": "Class group photographs and individual portraits, taken quickly and kindly. A calm set, no chaos in the corridors, no lost lesson time." },
+      { "num": "3", "title": "Parents order", "text": "Each family receives a private gallery code. They order prints and digital packages directly — delivered back to the school, sorted by class." }
+    ],
+    "parents_h2": "Simple for parents, private by design",
+    "parents_text": "Galleries are private per student — no public albums, ever. Parents view at home, choose what they love, and pay only for what they order. Photographs of students who don't participate are never taken in the first place.",
+    "why_h2": "Not a volume studio",
+    "why_text": "Picture day is led by an internationally published photographer, not a production line. The portrait your students take home should be worth framing — that is the entire point of the programme.",
+    "pricing_h2": "What it costs the school: nothing",
+    "pricing_text": "The programme is free for the school. Parents buy only what they love — packages start from $10. Schools receive the class group photographs for their own archive, every year.",
+    "gallery": [
+      { "img": "school-01", "alt": "School class photograph — placeholder" },
+      { "img": "school-02", "alt": "Student portrait — placeholder" }
+    ],
+    "faq_eyebrow": "Questions",
+    "faq_h2": "What schools ask",
+    "faq": [
+      { "q": "What does the programme cost the school?", "a": "Nothing. The school provides a room and the timetable; we handle everything else. Parents order only what they want." },
+      { "q": "How do parents pay?", "a": "Directly to us — cash on delivery to the school, or by card/transfer where available. The school never handles money." },
+      { "q": "What about absent students or retakes?", "a": "A short retake session is included in every programme, so absent students and unlucky blinks get a second chance." },
+      { "q": "How is privacy handled?", "a": "Each student's portraits live behind a private code shared only with their family. Nothing is published, and files are stored securely and deleted on an agreed schedule." }
+    ],
+    "cta_h2": "Book your school's picture day.",
+    "cta_text": "Autumn dates are limited — the earlier in the term, the better the calendar.",
+    "cta_btn_wa": "WhatsApp Riband",
+    "cta_btn_cal": "Book a planning call"
+  },
+
+  "work": {
+    "seo_title": "Portfolio — Riband, Photographer in Erbil",
+    "seo_desc": "Selected photographs by Riband Saadallah — weddings and portraits in Erbil, and twelve years of black-and-white street photography from Helsinki to Cambodia.",
+    "eyebrow": "Portfolio",
+    "h1": "Selected work",
+    "lead": "Weddings, portraits, and the street photography that shaped the eye. Black and white first — colour when the story needs it.",
+    "filters": [
+      { "key": "all", "label": "All" },
+      { "key": "wedding", "label": "Weddings" },
+      { "key": "portrait", "label": "Portraits" },
+      { "key": "street", "label": "Street" }
+    ],
+    "items": [
+      { "img": "work-01", "cat": "wedding", "caption": "Wedding · Erbil", "alt": "Wedding photograph, Erbil — placeholder" },
+      { "img": "work-02", "cat": "street", "caption": "Street · Helsinki", "alt": "Street photograph, Helsinki — placeholder" },
+      { "img": "work-03", "cat": "portrait", "caption": "Portrait · Erbil", "alt": "Portrait — placeholder" },
+      { "img": "work-04", "cat": "wedding", "caption": "Wedding · Erbil", "alt": "Wedding photograph — placeholder" },
+      { "img": "work-05", "cat": "portrait", "caption": "Portrait · Helsinki", "alt": "Portrait — placeholder" },
+      { "img": "work-06", "cat": "street", "caption": "Street · Rome", "alt": "Street photograph, Rome — placeholder" },
+      { "img": "work-07", "cat": "wedding", "caption": "Wedding · Kurdistan", "alt": "Wedding photograph — placeholder" },
+      { "img": "work-08", "cat": "street", "caption": "Street · Espoo", "alt": "Street photograph, Espoo — placeholder" },
+      { "img": "work-09", "cat": "wedding", "caption": "Henna night · Erbil", "alt": "Henna night photograph — placeholder" },
+      { "img": "work-10", "cat": "portrait", "caption": "Portrait · Erbil", "alt": "Portrait — placeholder" },
+      { "img": "work-11", "cat": "street", "caption": "Street · Cambodia", "alt": "Street photograph, Cambodia — placeholder" },
+      { "img": "work-12", "cat": "wedding", "caption": "Wedding · Erbil", "alt": "Wedding photograph — placeholder" }
+    ],
+    "more_text": "More every week on Instagram —",
+    "cta_h2": "See something you love?",
+    "cta_btn_wa": "WhatsApp Riband",
+    "cta_btn_cal": "Book a consultation"
+  },
+
+  "about": {
+    "seo_title": "About Riband Saadallah — Photographer, Erbil",
+    "seo_desc": "Riband Saadallah spent twelve years photographing in Finland — black-and-white street photography, editorial work, and model photography — before coming home to Erbil.",
+    "eyebrow": "Riband Saadallah",
+    "h1": "Twelve years of Nordic light.",
+    "p1": "I learned photography where light is scarce. Twelve years in Finland — Helsinki, Espoo — taught me to wait for it, to work with shadow instead of fighting it, and to keep only the honest frame.",
+    "p2": "My black-and-white street photography at @bnwlives is followed by thousands. I've served as editor-in-chief of Gilkend, photographed for Suomi Models in Finland, and carried a camera from Rome to Cambodia.",
+    "p3": "Now I'm home. Riband is the studio I'm building in Erbil — for weddings, portraits, and the city's schools — Nordic restraint, in service of Kurdish celebration.",
+    "img_alt": "Riband Saadallah — portrait placeholder",
+    "quote": "Black and white is not a filter. It is a way of seeing.",
+    "chapters_eyebrow": "Chapters",
+    "chapters": ["Helsinki", "Espoo", "Rome", "Cambodia", "Hewlêr"],
+    "sig_h2": "The signature",
+    "sig_text": "Every commission is delivered in full colour and in a curated monochrome edit. Colour records the day; black and white keeps the feeling. Fifty years from now, the monochrome frames are the ones on the wall.",
+    "cta_h2": "Work with Riband.",
+    "cta_btn_wa": "WhatsApp",
+    "cta_btn_cal": "Book a consultation"
+  },
+
+  "contact": {
+    "seo_title": "Contact Riband — Photographer in Erbil",
+    "seo_desc": "Book wedding, portrait, or school photography in Erbil. WhatsApp Riband directly or book a consultation call — replies within one working day.",
+    "eyebrow": "Contact",
+    "h1": "Tell me about your day.",
+    "lead": "WhatsApp is fastest. Or pick a time below and we'll talk it through properly.",
+    "wa_label": "WhatsApp",
+    "email_label": "Email",
+    "ig_label": "Instagram",
+    "studio_label": "Studio",
+    "studio_value": "Erbil, Kurdistan Region — sessions by appointment",
+    "reply_note": "Replies within one working day.",
+    "cal_h2": "Book a consultation",
+    "cal_fallback": "Calendar not loading? Book directly:",
+    "cal_link": "Open the calendar"
+  }
+}

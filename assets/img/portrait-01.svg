@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1750" viewBox="0 0 1400 1750">
+  <defs>
+    <linearGradient id="gportrait01" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#c9c6c0"/>
+      <stop offset="1" stop-color="#8e8b85"/>
+    </linearGradient>
+    <radialGradient id="rportrait01" cx="0.32" cy="0.28" r="0.9">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="0.6" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="nportrait01">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.055"/></feComponentTransfer>
+    </filter>
+  </defs>
+  <rect width="1400" height="1750" fill="url(#gportrait01)"/>
+  <rect width="1400" height="1750" fill="url(#rportrait01)"/>
+  <rect width="1400" height="1750" filter="url(#nportrait01)"/>
+  <rect x="63" y="63" width="1274" height="1624" fill="none" stroke="#3d3b37" stroke-opacity="0.35" stroke-width="1.5"/>
+  <text x="105" y="1645" font-family="Georgia, serif" font-size="29" letter-spacing="8.4" fill="#3d3b37" fill-opacity="0.85">PORTRAIT 01</text>
+  <text x="105" y="1690" font-family="Georgia, serif" font-size="20" letter-spacing="4.2" fill="#3d3b37" fill-opacity="0.5">PLACEHOLDER — REPLACE WITH PHOTOGRAPH 1400 × 1750</text>
+</svg>

@@ -1,0 +1,32 @@
+{
+  "_comment": "Cross-language constants. Everything marked _TODO must be replaced with Riband's real details before launch.",
+  "site_name": "Riband",
+  "base_url": "https://www.ribandphotography.com",
+  "base_url_TODO": "Replace with the real domain once bought, no trailing slash.",
+  "whatsapp_e164": "9647500000000",
+  "whatsapp_display": "+964 750 000 0000",
+  "whatsapp_TODO": "Replace with Riband's real WhatsApp number (e164 = digits only, no +).",
+  "email": "hello@ribandphotography.com",
+  "email_TODO": "Replace with his real email.",
+  "calendly_url": "https://calendly.com/ribandm/intro",
+  "calendly_TODO": "Replace with his real Calendly event link.",
+  "instagram_main": "https://www.instagram.com/ribandm/",
+  "instagram_bnw": "https://www.instagram.com/bnwlives/",
+  "youtube": "https://youtu.be/yHtgqRKVOBc",
+  "copyright_year": "2026",
+  "prices": {
+    "_comment": "USD, starting-from. Placeholders — confirm with Riband.",
+    "wedding_essential": "650",
+    "wedding_signature": "1,200",
+    "wedding_legacy": "2,500",
+    "portrait_solo": "90",
+    "portrait_couple": "140",
+    "portrait_family": "190",
+    "school_parent": "10"
+  },
+  "languages": [
+    { "slug": "en", "file": "en.json" },
+    { "slug": "ku", "file": "ckb.json" },
+    { "slug": "ar", "file": "ar.json" }
+  ]
+}
