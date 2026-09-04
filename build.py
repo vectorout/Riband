@@ -150,7 +150,7 @@ def footer(cfg, lang, rel):
     </div>
     <div class="foot-base">
       <span>© {cfg['copyright_year']} {ch['copyright']}</span>
-      <span><a href="https://rmr.agency" rel="noopener">{ch['credit']}</a></span>
+      <span><a href="https://bond.krd" rel="noopener">{ch['credit']}</a></span>
     </div>
   </div>
 </footer>
